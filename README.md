@@ -1,2 +1,2 @@
-# CUCM-compare-phone-registration
+# CUCM compare phone registration
 Compare phone registration states via AXL
