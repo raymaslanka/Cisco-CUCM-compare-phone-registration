@@ -1,4 +1,4 @@
-# Cisco CUCM - compare phone registration states via AXL
+# Cisco CUCM - compare phone registration states by querying RISDB
 This demonstrates how to find the registered phones to various servers in a CUCM cluster, write that to a SQL database, and then at a later time find phones no longer registered or registered to different CUCM servers.
 
 The example utilizes Python 3.6.2 and the required libraries will be noted.
